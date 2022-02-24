@@ -5,6 +5,14 @@ repo: upptime # The name of this repository
 sites:
   - name: Piwigo
     url: $SERVER_BASE/piwigo/
+  - name: Tandoor
+    url: $SERVER_BASE/recipes/
+  - name: Nextcloud
+    url: $SERVER_BASE/nextcloud/
+  - name: Grafana
+    url: $SERVER_BASE/grafana/
+  - name: Vertretungspläne
+    url: $SERVER_BASE/vertretungsplaene/
   - name: Lychee
     url: $SERVER_BASE/lychee/
   - name: Google
