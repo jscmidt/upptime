@@ -21,6 +21,12 @@ sites:
   - name: Vertretungspläne
     url: $SERVER_BASE/vertretungsplaene/
     maxResponseTime: 5000
+  - name: API
+    url: $SERVER_BASE/api/
+    maxResponseTime: 5000
+  - name: Linus-Wordpress
+    url: $SERVER_BASE/wordpress/
+    maxResponseTime: 5000
   - name: Lychee
     url: $SERVER_BASE/lychee/
     maxResponseTime: 5000
