@@ -24,6 +24,10 @@ sites:
   - name: API
     url: $SERVER_BASE/api/
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
   - name: Linus-Wordpress
     url: $SERVER_BASE/wordpress/
     maxResponseTime: 5000
