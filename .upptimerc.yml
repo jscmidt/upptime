@@ -3,20 +3,30 @@ owner: JSAnyone # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
+  - name: Startpage
+    url: $SERVER_BASE
+    maxResponseTime: 5000
   - name: Piwigo
     url: $SERVER_BASE/piwigo/
+    maxResponseTime: 5000
   - name: Tandoor
     url: $SERVER_BASE/recipes/
+    maxResponseTime: 5000
   - name: Nextcloud
     url: $SERVER_BASE/nextcloud/
+    maxResponseTime: 5000
   - name: Grafana
     url: $SERVER_BASE/grafana/
+    maxResponseTime: 5000
   - name: Vertretungspläne
     url: $SERVER_BASE/vertretungsplaene/
+    maxResponseTime: 5000
   - name: Lychee
     url: $SERVER_BASE/lychee/
+    maxResponseTime: 5000
   - name: Google
     url: https://google.com
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
