@@ -94,19 +94,19 @@
     "url": "$SERVER_BASE/lychee/",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "lychee",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
-    "time": 626,
-    "timeDay": 626,
-    "timeWeek": 626,
-    "timeMonth": 626,
-    "timeYear": 626,
+    "status": "up",
+    "uptime": "85.12%",
+    "uptimeDay": "85.12%",
+    "uptimeWeek": "85.12%",
+    "uptimeMonth": "85.12%",
+    "uptimeYear": "85.12%",
+    "time": 683,
+    "timeDay": 683,
+    "timeWeek": 683,
+    "timeMonth": 683,
+    "timeYear": 683,
     "dailyMinutesDown": {
-      "2022-02-24": 0
+      "2022-02-24": 5
     }
   },
   {
