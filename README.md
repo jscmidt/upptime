@@ -20,7 +20,6 @@
 
 [**Incident reports →**](https://github.com/JSAnyone/upptime/issues)
 
-With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues]() as incident reports, [Actions](https://github.com/JSAnyone/upptime/actions) as uptime monitors, and [Pages](https://JSAnyone.github.io/upptime) for the status page.
 
 ## Repository Status:
 [![Uptime CI](https://github.com/JSAnyone/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/JSAnyone/upptime/actions?query=workflow%3A%22Uptime+CI%22)
