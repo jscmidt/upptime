@@ -1,7 +1,7 @@
 url: $SERVER_BASE/grafana/
 status: up
 code: 200
-responseTime: 350
-lastUpdated: 2023-01-10T05:56:21.879Z
+responseTime: 422
+lastUpdated: 2023-01-10T23:14:19.545Z
 startTime: Thu Feb 24 2022 17:30:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
