@@ -1,7 +1,7 @@
 url: $SERVER_BASE/wordpress/
 status: up
 code: 200
-responseTime: 664
-lastUpdated: 2023-03-27T23:14:40.069Z
+responseTime: 624
+lastUpdated: 2023-03-28T23:13:19.747Z
 startTime: Thu Feb 24 2022 18:15:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
