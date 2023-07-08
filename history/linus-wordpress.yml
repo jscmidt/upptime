@@ -1,7 +1,7 @@
 url: $SERVER_BASE/wordpress/
-status: down
-code: 404
-responseTime: 98
-lastUpdated: 2023-07-07T23:14:10.982Z
+status: up
+code: 200
+responseTime: 3305
+lastUpdated: 2023-07-08T08:27:47.053Z
 startTime: Thu Feb 24 2022 18:15:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
