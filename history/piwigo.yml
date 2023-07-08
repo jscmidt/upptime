@@ -1,7 +1,7 @@
 url: $SERVER_BASE/piwigo/
-status: down
-code: 404
-responseTime: 174
-lastUpdated: 2023-07-08T07:41:03.508Z
+status: up
+code: 200
+responseTime: 488
+lastUpdated: 2023-07-08T08:08:00.882Z
 startTime: Thu Feb 24 2022 17:19:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
