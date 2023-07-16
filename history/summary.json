@@ -4,10 +4,10 @@
     "url": "$SERVER_BASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "startpage",
-    "status": "up",
-    "uptime": "96.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.61%",
+    "status": "down",
+    "uptime": "97.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "92.60%",
     "uptimeMonth": "95.24%",
     "uptimeYear": "95.83%",
     "time": 973,
@@ -16,6 +16,7 @@
     "timeMonth": 1165,
     "timeYear": 997,
     "dailyMinutesDown": {
+      "2023-07-16": 1,
       "2023-07-11": 410,
       "2023-07-10": 335,
       "2023-07-07": 162,
@@ -70,8 +71,7 @@
       "2023-01-16": 34,
       "2023-01-15": 645,
       "2023-01-12": 49,
-      "2023-01-05": 27,
-      "2022-12-24": 47
+      "2023-01-05": 27
     }
   },
   {
@@ -79,18 +79,19 @@
     "url": "$SERVER_BASE/piwigo/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "piwigo",
-    "status": "up",
-    "uptime": "96.37%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.38%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "92.61%",
-    "uptimeMonth": "92.95%",
+    "uptimeMonth": "92.94%",
     "uptimeYear": "94.97%",
-    "time": 839,
+    "time": 840,
     "timeDay": 444,
     "timeWeek": 602,
     "timeMonth": 614,
     "timeYear": 838,
     "dailyMinutesDown": {
+      "2023-07-16": 1,
       "2023-07-11": 410,
       "2023-07-10": 334,
       "2023-07-08": 478,
@@ -154,8 +155,7 @@
       "2023-01-15": 640,
       "2023-01-12": 49,
       "2023-01-05": 27,
-      "2023-01-04": 46,
-      "2023-01-03": 20
+      "2023-01-04": 46
     }
   },
   {
@@ -163,10 +163,10 @@
     "url": "$SERVER_BASE/recipes/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tandoor",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.62%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "92.61%",
     "uptimeMonth": "95.45%",
     "uptimeYear": "98.94%",
     "time": 576,
@@ -175,6 +175,7 @@
     "timeMonth": 559,
     "timeYear": 573,
     "dailyMinutesDown": {
+      "2023-07-16": 0,
       "2023-07-11": 410,
       "2023-07-10": 334,
       "2023-07-07": 162,
@@ -219,8 +220,7 @@
       "2023-01-18": 30,
       "2023-01-16": 34,
       "2023-01-15": 634,
-      "2023-01-12": 48,
-      "2023-01-05": 27
+      "2023-01-12": 48
     }
   },
   {
@@ -233,7 +233,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.26%",
     "uptimeMonth": "94.55%",
-    "uptimeYear": "56.82%",
+    "uptimeYear": "56.83%",
     "time": 757,
     "timeDay": 643,
     "timeWeek": 1190,
@@ -511,7 +511,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vertretungsplaene",
     "status": "down",
-    "uptime": "24.26%",
+    "uptime": "24.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -522,7 +522,7 @@
     "timeMonth": 133,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2023-07-16": 67,
+      "2023-07-16": 152,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
@@ -970,7 +970,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.63%",
     "uptimeMonth": "93.04%",
-    "uptimeYear": "96.06%",
+    "uptimeYear": "96.08%",
     "time": 748,
     "timeDay": 827,
     "timeWeek": 1255,
@@ -1052,7 +1052,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.63%",
     "uptimeMonth": "95.16%",
-    "uptimeYear": "94.31%",
+    "uptimeYear": "94.33%",
     "time": 1047,
     "timeDay": 757,
     "timeWeek": 893,
