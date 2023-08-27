@@ -4,9 +4,9 @@
     "url": "$SERVER_BASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "startpage",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "82.15%",
+    "status": "down",
+    "uptime": "99.22%",
+    "uptimeDay": "82.13%",
     "uptimeWeek": "94.07%",
     "uptimeMonth": "96.52%",
     "uptimeYear": "98.82%",
@@ -58,7 +58,7 @@
       "2023-03-29": 335,
       "2023-03-27": 132,
       "2023-03-25": 44,
-      "2023-03-24": 60
+      "2023-03-24": 37
     }
   },
   {
@@ -490,7 +490,7 @@
     "timeMonth": 125,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-08-27": 434,
+      "2023-08-27": 474,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
