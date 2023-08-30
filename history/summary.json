@@ -4,10 +4,10 @@
     "url": "$SERVER_BASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "startpage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "82.12%",
-    "uptimeWeek": "91.62%",
+    "uptimeDay": "82.06%",
+    "uptimeWeek": "91.61%",
     "uptimeMonth": "95.40%",
     "uptimeYear": "98.87%",
     "time": 1013,
@@ -16,7 +16,7 @@
     "timeMonth": 1146,
     "timeYear": 1039,
     "dailyMinutesDown": {
-      "2023-08-30": 93,
+      "2023-08-30": 94,
       "2023-08-29": 180,
       "2023-08-28": 130,
       "2023-08-27": 174,
@@ -56,7 +56,7 @@
       "2023-04-18": 20,
       "2023-04-11": 27,
       "2023-04-09": 33,
-      "2023-04-08": 46
+      "2023-04-08": 21
     }
   },
   {
@@ -64,9 +64,9 @@
     "url": "$SERVER_BASE/piwigo/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "piwigo",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "84.31%",
+    "uptimeDay": "84.26%",
     "uptimeWeek": "91.22%",
     "uptimeMonth": "95.31%",
     "uptimeYear": "98.04%",
@@ -76,7 +76,7 @@
     "timeMonth": 542,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2023-08-30": 93,
+      "2023-08-30": 94,
       "2023-08-29": 148,
       "2023-08-28": 130,
       "2023-08-27": 236,
@@ -121,7 +121,7 @@
       "2023-04-18": 4,
       "2023-04-11": 27,
       "2023-04-09": 33,
-      "2023-04-08": 151
+      "2023-04-08": 133
     }
   },
   {
@@ -129,12 +129,12 @@
     "url": "$SERVER_BASE/recipes/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tandoor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "84.39%",
-    "uptimeWeek": "92.14%",
+    "uptimeDay": "84.36%",
+    "uptimeWeek": "92.13%",
     "uptimeMonth": "95.52%",
-    "uptimeYear": "98.89%",
+    "uptimeYear": "98.90%",
     "time": 555,
     "timeDay": 428,
     "timeWeek": 433,
@@ -181,7 +181,7 @@
       "2023-04-18": 3,
       "2023-04-11": 27,
       "2023-04-09": 33,
-      "2023-04-08": 66
+      "2023-04-08": 46
     }
   },
   {
@@ -338,7 +338,7 @@
     "timeMonth": 123,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-08-30": 804,
+      "2023-08-30": 815,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
