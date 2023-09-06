@@ -6,17 +6,16 @@
     "slug": "startpage",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "95.78%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "95.80%",
     "uptimeYear": "98.87%",
     "time": 1013,
     "timeDay": 1535,
-    "timeWeek": 1296,
+    "timeWeek": 1300,
     "timeMonth": 1177,
     "timeYear": 1050,
     "dailyMinutesDown": {
-      "2023-09-06": 10,
       "2023-09-05": 18,
       "2023-08-30": 110,
       "2023-08-29": 180,
@@ -56,7 +55,8 @@
       "2023-04-21": 17,
       "2023-04-19": 847,
       "2023-04-18": 20,
-      "2023-04-11": 27
+      "2023-04-11": 27,
+      "2023-04-09": 33
     }
   },
   {
@@ -72,7 +72,7 @@
     "uptimeYear": "98.04%",
     "time": 782,
     "timeDay": 513,
-    "timeWeek": 626,
+    "timeWeek": 628,
     "timeMonth": 559,
     "timeYear": 784,
     "dailyMinutesDown": {
@@ -129,18 +129,19 @@
     "url": "$SERVER_BASE/recipes/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tandoor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "98.92%",
     "uptimeMonth": "95.96%",
-    "uptimeYear": "98.89%",
+    "uptimeYear": "98.90%",
     "time": 548,
-    "timeDay": 457,
-    "timeWeek": 484,
-    "timeMonth": 445,
-    "timeYear": 545,
+    "timeDay": 385,
+    "timeWeek": 475,
+    "timeMonth": 444,
+    "timeYear": 544,
     "dailyMinutesDown": {
+      "2023-09-06": 1,
       "2023-08-30": 109,
       "2023-08-29": 147,
       "2023-08-28": 129,
@@ -181,7 +182,7 @@
       "2023-04-18": 3,
       "2023-04-11": 27,
       "2023-04-09": 33,
-      "2023-04-08": 46
+      "2023-04-08": 21
     }
   },
   {
@@ -327,7 +328,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vertretungsplaene",
     "status": "down",
-    "uptime": "22.00%",
+    "uptime": "21.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -338,7 +339,7 @@
     "timeMonth": 122,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-09-06": 150,
+      "2023-09-06": 272,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
