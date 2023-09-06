@@ -4,18 +4,19 @@
     "url": "$SERVER_BASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "startpage",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "98.73%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "95.80%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.88%",
     "time": 1013,
     "timeDay": 1535,
-    "timeWeek": 1300,
+    "timeWeek": 1296,
     "timeMonth": 1177,
     "timeYear": 1050,
     "dailyMinutesDown": {
+      "2023-09-06": 0,
       "2023-09-05": 18,
       "2023-08-30": 110,
       "2023-08-29": 180,
@@ -55,8 +56,7 @@
       "2023-04-21": 17,
       "2023-04-19": 847,
       "2023-04-18": 20,
-      "2023-04-11": 27,
-      "2023-04-09": 33
+      "2023-04-11": 27
     }
   },
   {
@@ -67,12 +67,12 @@
     "status": "up",
     "uptime": "98.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.92%",
+    "uptimeWeek": "99.07%",
     "uptimeMonth": "95.75%",
     "uptimeYear": "98.04%",
     "time": 782,
     "timeDay": 513,
-    "timeWeek": 628,
+    "timeWeek": 641,
     "timeMonth": 559,
     "timeYear": 784,
     "dailyMinutesDown": {
@@ -131,17 +131,16 @@
     "slug": "tandoor",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "95.94%",
-    "uptimeYear": "98.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "95.96%",
+    "uptimeYear": "98.89%",
     "time": 549,
     "timeDay": 897,
-    "timeWeek": 525,
+    "timeWeek": 530,
     "timeMonth": 454,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2023-09-06": 10,
       "2023-08-30": 109,
       "2023-08-29": 147,
       "2023-08-28": 129,
@@ -182,7 +181,7 @@
       "2023-04-18": 3,
       "2023-04-11": 27,
       "2023-04-09": 33,
-      "2023-04-08": 21
+      "2023-04-08": 46
     }
   },
   {
@@ -198,7 +197,7 @@
     "uptimeYear": "97.25%",
     "time": 745,
     "timeDay": 769,
-    "timeWeek": 819,
+    "timeWeek": 824,
     "timeMonth": 774,
     "timeYear": 713,
     "dailyMinutesDown": {
@@ -270,7 +269,7 @@
     "uptimeYear": "98.86%",
     "time": 467,
     "timeDay": 407,
-    "timeWeek": 400,
+    "timeWeek": 398,
     "timeMonth": 408,
     "timeYear": 478,
     "dailyMinutesDown": {
@@ -339,7 +338,7 @@
     "timeMonth": 122,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-09-06": 282,
+      "2023-09-06": 390,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
@@ -719,7 +718,7 @@
     "uptimeYear": "98.85%",
     "time": 133,
     "timeDay": 131,
-    "timeWeek": 128,
+    "timeWeek": 127,
     "timeMonth": 123,
     "timeYear": 133,
     "dailyMinutesDown": {
@@ -782,7 +781,7 @@
     "uptimeYear": "98.63%",
     "time": 735,
     "timeDay": 577,
-    "timeWeek": 548,
+    "timeWeek": 564,
     "timeMonth": 616,
     "timeYear": 730,
     "dailyMinutesDown": {
@@ -850,7 +849,7 @@
     "uptimeYear": "96.89%",
     "time": 1027,
     "timeDay": 870,
-    "timeWeek": 865,
+    "timeWeek": 866,
     "timeMonth": 928,
     "timeYear": 982,
     "dailyMinutesDown": {
