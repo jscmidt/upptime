@@ -4,18 +4,19 @@
     "url": "$SERVER_BASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "startpage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.43%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.88%",
     "time": 1018,
     "timeDay": 1725,
-    "timeWeek": 1240,
+    "timeWeek": 1215,
     "timeMonth": 1170,
     "timeYear": 1054,
     "dailyMinutesDown": {
+      "2023-09-13": 0,
       "2023-09-05": 18,
       "2023-08-30": 110,
       "2023-08-29": 180,
@@ -55,8 +56,7 @@
       "2023-04-21": 17,
       "2023-04-19": 847,
       "2023-04-18": 20,
-      "2023-04-11": 27,
-      "2023-04-09": 33
+      "2023-04-11": 27
     }
   },
   {
@@ -327,7 +327,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vertretungsplaene",
     "status": "down",
-    "uptime": "21.73%",
+    "uptime": "21.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -338,7 +338,7 @@
     "timeMonth": 121,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-09-13": 40,
+      "2023-09-13": 174,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
