@@ -4,18 +4,19 @@
     "url": "$SERVER_BASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "startpage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "97.92%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "97.91%",
     "uptimeYear": "98.88%",
-    "time": 1021,
+    "time": 1022,
     "timeDay": 908,
     "timeWeek": 1052,
     "timeMonth": 1169,
     "timeYear": 1058,
     "dailyMinutesDown": {
+      "2023-09-25": 1,
       "2023-09-22": 17,
       "2023-09-13": 16,
       "2023-09-05": 18,
@@ -56,7 +57,7 @@
       "2023-04-22": 90,
       "2023-04-21": 17,
       "2023-04-19": 847,
-      "2023-04-18": 20
+      "2023-04-18": 4
     }
   },
   {
@@ -64,9 +65,9 @@
     "url": "$SERVER_BASE/piwigo/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "piwigo",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.94%",
     "uptimeYear": "98.04%",
@@ -76,6 +77,7 @@
     "timeMonth": 561,
     "timeYear": 779,
     "dailyMinutesDown": {
+      "2023-09-25": 0,
       "2023-08-30": 109,
       "2023-08-29": 148,
       "2023-08-28": 130,
@@ -121,7 +123,7 @@
       "2023-04-18": 4,
       "2023-04-11": 27,
       "2023-04-09": 33,
-      "2023-04-08": 133
+      "2023-04-08": 118
     }
   },
   {
@@ -338,7 +340,7 @@
     "timeMonth": 123,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2023-09-25": 41,
+      "2023-09-25": 230,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
