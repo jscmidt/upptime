@@ -62,18 +62,19 @@
     "url": "$SERVER_BASE/piwigo/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "piwigo",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "95.79%",
-    "uptimeWeek": "99.13%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "99.10%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "98.04%",
-    "time": 762,
+    "time": 761,
     "timeDay": 551,
     "timeWeek": 545,
     "timeMonth": 539,
     "timeYear": 764,
     "dailyMinutesDown": {
+      "2023-10-15": 3,
       "2023-10-14": 61,
       "2023-10-13": 27,
       "2023-09-29": 19,
@@ -122,8 +123,7 @@
       "2023-04-22": 90,
       "2023-04-21": 17,
       "2023-04-19": 848,
-      "2023-04-18": 4,
-      "2023-04-11": 27
+      "2023-04-18": 4
     }
   },
   {
@@ -192,18 +192,19 @@
     "url": "$SERVER_BASE/nextcloud/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.36%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "99.72%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "97.31%",
+    "uptimeYear": "97.32%",
     "time": 746,
     "timeDay": 863,
     "timeWeek": 774,
     "timeMonth": 764,
     "timeYear": 710,
     "dailyMinutesDown": {
+      "2023-10-15": 2,
       "2023-10-14": 28,
       "2023-09-29": 19,
       "2023-09-28": 18,
@@ -255,8 +256,7 @@
       "2023-04-18": 3,
       "2023-04-11": 27,
       "2023-04-09": 33,
-      "2023-04-08": 177,
-      "2023-03-30": 47
+      "2023-04-08": 177
     }
   },
   {
@@ -341,7 +341,7 @@
     "timeMonth": 123,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2023-10-15": 224,
+      "2023-10-15": 238,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
@@ -781,9 +781,9 @@
     "slug": "linus-wordpress",
     "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "95.60%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "98.65%",
     "time": 713,
     "timeDay": 626,
@@ -791,7 +791,7 @@
     "timeMonth": 569,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2023-10-15": 1,
+      "2023-10-15": 14,
       "2023-10-14": 49,
       "2023-10-13": 48,
       "2023-09-29": 19,
