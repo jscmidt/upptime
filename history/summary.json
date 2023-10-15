@@ -341,7 +341,7 @@
     "timeMonth": 123,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2023-10-15": 44,
+      "2023-10-15": 224,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
@@ -779,10 +779,10 @@
     "url": "$SERVER_BASE/wordpress/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "linus-wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "96.58%",
-    "uptimeWeek": "99.03%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "99.02%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "98.65%",
     "time": 713,
@@ -791,6 +791,7 @@
     "timeMonth": 569,
     "timeYear": 717,
     "dailyMinutesDown": {
+      "2023-10-15": 1,
       "2023-10-14": 49,
       "2023-10-13": 48,
       "2023-09-29": 19,
@@ -838,8 +839,7 @@
       "2023-03-29": 294,
       "2023-03-25": 20,
       "2023-03-24": 154,
-      "2023-03-19": 20,
-      "2023-03-18": 19
+      "2023-03-19": 20
     }
   },
   {
