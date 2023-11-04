@@ -1,7 +1,7 @@
 url: $SERVER_BASE/lychee/
-status: down
-code: 502
-responseTime: 151
-lastUpdated: 2023-11-04T22:29:45.509Z
+status: up
+code: 200
+responseTime: 2035
+lastUpdated: 2023-11-04T22:49:44.170Z
 startTime: 2022-02-24T17:19:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
