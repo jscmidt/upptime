@@ -4,9 +4,9 @@
     "url": "$SERVER_BASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "startpage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.75%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.10%",
@@ -16,6 +16,7 @@
     "timeMonth": 1049,
     "timeYear": 1083,
     "dailyMinutesDown": {
+      "2023-11-08": 0,
       "2023-11-05": 32,
       "2023-11-03": 44,
       "2023-11-02": 50,
@@ -56,7 +57,7 @@
       "2023-07-07": 162,
       "2023-07-06": 781,
       "2023-07-02": 126,
-      "2023-07-01": 88
+      "2023-07-01": 70
     }
   },
   {
@@ -272,7 +273,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
@@ -338,7 +339,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vertretungsplaene",
     "status": "down",
-    "uptime": "19.77%",
+    "uptime": "19.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -349,7 +350,7 @@
     "timeMonth": 125,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2023-11-08": 41,
+      "2023-11-08": 1150,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
