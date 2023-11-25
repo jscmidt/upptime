@@ -14,7 +14,7 @@
     "timeDay": 1378,
     "timeWeek": 1361,
     "timeMonth": 1129,
-    "timeYear": 1098,
+    "timeYear": 1099,
     "dailyMinutesDown": {
       "2023-11-25": 18,
       "2023-11-24": 77,
@@ -196,18 +196,19 @@
     "url": "$SERVER_BASE/nextcloud/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.36%",
-    "uptimeDay": "94.75%",
-    "uptimeWeek": "90.13%",
+    "uptimeDay": "94.71%",
+    "uptimeWeek": "90.12%",
     "uptimeMonth": "97.66%",
     "uptimeYear": "97.13%",
-    "time": 733,
-    "timeDay": 2550,
-    "timeWeek": 1234,
-    "timeMonth": 811,
-    "timeYear": 718,
+    "time": 743,
+    "timeDay": 4382,
+    "timeWeek": 1915,
+    "timeMonth": 968,
+    "timeYear": 730,
     "dailyMinutesDown": {
+      "2023-11-25": 1,
       "2023-11-24": 76,
       "2023-11-23": 920,
       "2023-11-04": 30,
@@ -264,8 +265,7 @@
       "2023-04-19": 867,
       "2023-04-18": 3,
       "2023-04-11": 27,
-      "2023-04-09": 33,
-      "2023-04-08": 21
+      "2023-04-09": 33
     }
   },
   {
@@ -342,7 +342,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vertretungsplaene",
     "status": "down",
-    "uptime": "19.24%",
+    "uptime": "19.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -353,7 +353,7 @@
     "timeMonth": 121,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2023-11-25": 317,
+      "2023-11-25": 830,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
@@ -802,7 +802,7 @@
     "timeDay": 2126,
     "timeWeek": 899,
     "timeMonth": 910,
-    "timeYear": 737,
+    "timeYear": 736,
     "dailyMinutesDown": {
       "2023-11-24": 74,
       "2023-11-23": 955,
