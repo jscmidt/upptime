@@ -198,9 +198,9 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "98.36%",
-    "uptimeDay": "94.05%",
-    "uptimeWeek": "90.03%",
-    "uptimeMonth": "97.64%",
+    "uptimeDay": "94.75%",
+    "uptimeWeek": "90.13%",
+    "uptimeMonth": "97.66%",
     "uptimeYear": "97.13%",
     "time": 743,
     "timeDay": 3564,
@@ -208,7 +208,6 @@
     "timeMonth": 971,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2023-11-25": 10,
       "2023-11-24": 76,
       "2023-11-23": 920,
       "2023-11-04": 30,
@@ -265,7 +264,8 @@
       "2023-04-19": 867,
       "2023-04-18": 3,
       "2023-04-11": 27,
-      "2023-04-09": 33
+      "2023-04-09": 33,
+      "2023-04-08": 21
     }
   },
   {
@@ -353,7 +353,7 @@
     "timeMonth": 121,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2023-11-25": 840,
+      "2023-11-25": 890,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
@@ -864,18 +864,19 @@
     "url": "$SERVER_BASE/lychee/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lychee",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "91.33%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "91.32%",
     "uptimeMonth": "97.90%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.76%",
     "time": 991,
     "timeDay": 3194,
     "timeWeek": 2030,
     "timeMonth": 1266,
     "timeYear": 1006,
     "dailyMinutesDown": {
+      "2023-11-25": 1,
       "2023-11-24": 73,
       "2023-11-23": 801,
       "2023-11-18": 24,
@@ -922,8 +923,7 @@
       "2023-04-11": 26,
       "2023-04-09": 34,
       "2023-04-08": 177,
-      "2023-03-30": 47,
-      "2023-03-29": 294
+      "2023-03-30": 47
     }
   },
   {
