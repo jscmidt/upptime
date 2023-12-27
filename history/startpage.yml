@@ -1,7 +1,7 @@
 url: $SERVER_BASE
-status: down
-code: 404
-responseTime: 1030
-lastUpdated: 2023-12-26T23:14:41.313Z
+status: up
+code: 200
+responseTime: 893
+lastUpdated: 2023-12-27T15:35:36.378Z
 startTime: 2022-02-24T18:11:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
