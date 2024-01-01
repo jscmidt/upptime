@@ -1,7 +1,7 @@
 url: $SERVER_BASE/recipes/
-status: down
-code: 502
-responseTime: 3154
-lastUpdated: 2024-01-01T15:17:57.664Z
+status: up
+code: 200
+responseTime: 1224
+lastUpdated: 2024-01-01T16:22:29.842Z
 startTime: 2022-02-24T17:30:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
