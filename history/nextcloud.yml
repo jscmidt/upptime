@@ -1,7 +1,7 @@
 url: $SERVER_BASE/nextcloud/
 status: down
 code: 500
-responseTime: 165
-lastUpdated: 2024-03-15T23:13:00.428Z
+responseTime: 110
+lastUpdated: 2024-03-16T23:13:48.767Z
 startTime: 2022-02-24T17:30:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
