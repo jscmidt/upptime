@@ -1,7 +1,7 @@
 url: $SERVER_BASE/wordpress/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-16T22:49:28.005Z
+status: up
+code: 200
+responseTime: 665
+lastUpdated: 2024-04-16T22:59:31.424Z
 startTime: 2022-02-24T18:15:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
