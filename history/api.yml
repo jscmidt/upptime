@@ -1,7 +1,7 @@
 url: $SERVER_BASE/api/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-16T10:41:21.282Z
+status: up
+code: 401
+responseTime: 164
+lastUpdated: 2024-04-16T10:51:36.387Z
 startTime: 2022-02-24T18:15:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
