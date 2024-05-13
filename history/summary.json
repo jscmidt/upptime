@@ -4,15 +4,15 @@
     "url": "$SERVER_BASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "startpage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "84.53%",
-    "uptimeWeek": "68.10%",
-    "uptimeMonth": "88.45%",
-    "uptimeYear": "99.04%",
+    "uptimeDay": "84.51%",
+    "uptimeWeek": "68.60%",
+    "uptimeMonth": "88.56%",
+    "uptimeYear": "99.05%",
     "time": 1247,
     "timeDay": 1272,
-    "timeWeek": 1376,
+    "timeWeek": 1370,
     "timeMonth": 1365,
     "timeYear": 1254,
     "dailyMinutesDown": {
@@ -27,8 +27,7 @@
       "2024-05-05": 568,
       "2024-05-04": 599,
       "2024-05-03": 268,
-      "2024-05-02": 195,
-      "2024-05-01": 52
+      "2024-05-02": 195
     }
   },
   {
@@ -36,15 +35,15 @@
     "url": "$SERVER_BASE/piwigo/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "piwigo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "84.52%",
-    "uptimeWeek": "68.85%",
-    "uptimeMonth": "89.01%",
-    "uptimeYear": "99.08%",
+    "uptimeDay": "84.49%",
+    "uptimeWeek": "69.35%",
+    "uptimeMonth": "89.06%",
+    "uptimeYear": "99.09%",
     "time": 694,
     "timeDay": 700,
-    "timeWeek": 826,
+    "timeWeek": 823,
     "timeMonth": 842,
     "timeYear": 703,
     "dailyMinutesDown": {
@@ -59,7 +58,7 @@
       "2024-05-05": 529,
       "2024-05-04": 579,
       "2024-05-03": 283,
-      "2024-05-02": 117
+      "2024-05-02": 97
     }
   },
   {
@@ -67,15 +66,15 @@
     "url": "$SERVER_BASE/recipes/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tandoor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "84.51%",
-    "uptimeWeek": "68.85%",
-    "uptimeMonth": "89.01%",
-    "uptimeYear": "99.08%",
+    "uptimeDay": "84.48%",
+    "uptimeWeek": "69.35%",
+    "uptimeMonth": "89.06%",
+    "uptimeYear": "99.09%",
     "time": 573,
     "timeDay": 501,
-    "timeWeek": 547,
+    "timeWeek": 546,
     "timeMonth": 597,
     "timeYear": 574,
     "dailyMinutesDown": {
@@ -90,7 +89,7 @@
       "2024-05-05": 529,
       "2024-05-04": 579,
       "2024-05-03": 283,
-      "2024-05-02": 117
+      "2024-05-02": 97
     }
   },
   {
@@ -98,19 +97,19 @@
     "url": "$SERVER_BASE/nextcloud/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "84.50%",
-    "uptimeWeek": "68.83%",
-    "uptimeMonth": "89.04%",
+    "uptimeDay": "84.46%",
+    "uptimeWeek": "69.33%",
+    "uptimeMonth": "89.08%",
     "uptimeYear": "99.09%",
     "time": 803,
     "timeDay": 912,
-    "timeWeek": 992,
+    "timeWeek": 989,
     "timeMonth": 988,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2024-05-13": 40,
+      "2024-05-13": 41,
       "2024-05-12": 260,
       "2024-05-11": 250,
       "2024-05-10": 287,
@@ -121,7 +120,7 @@
       "2024-05-05": 529,
       "2024-05-04": 579,
       "2024-05-03": 283,
-      "2024-05-02": 103
+      "2024-05-02": 83
     }
   },
   {
@@ -129,19 +128,19 @@
     "url": "$SERVER_BASE/grafana/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "84.49%",
-    "uptimeWeek": "68.80%",
-    "uptimeMonth": "89.12%",
-    "uptimeYear": "99.09%",
+    "uptimeDay": "84.45%",
+    "uptimeWeek": "69.29%",
+    "uptimeMonth": "89.16%",
+    "uptimeYear": "99.10%",
     "time": 530,
     "timeDay": 423,
-    "timeWeek": 609,
+    "timeWeek": 608,
     "timeMonth": 575,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2024-05-13": 40,
+      "2024-05-13": 41,
       "2024-05-12": 260,
       "2024-05-11": 290,
       "2024-05-10": 287,
@@ -152,7 +151,7 @@
       "2024-05-05": 529,
       "2024-05-04": 580,
       "2024-05-03": 282,
-      "2024-05-02": 63
+      "2024-05-02": 48
     }
   },
   {
@@ -172,7 +171,7 @@
     "timeMonth": 122,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-05-13": 392,
+      "2024-05-13": 453,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -544,11 +543,11 @@
     "url": "$SERVER_BASE/api/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "84.48%",
-    "uptimeWeek": "69.18%",
-    "uptimeMonth": "89.16%",
+    "uptimeDay": "84.44%",
+    "uptimeWeek": "69.67%",
+    "uptimeMonth": "89.21%",
     "uptimeYear": "99.10%",
     "time": 125,
     "timeDay": 115,
@@ -556,7 +555,7 @@
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-05-13": 40,
+      "2024-05-13": 41,
       "2024-05-12": 260,
       "2024-05-11": 251,
       "2024-05-10": 287,
@@ -567,7 +566,7 @@
       "2024-05-05": 529,
       "2024-05-04": 580,
       "2024-05-03": 282,
-      "2024-05-02": 83
+      "2024-05-02": 63
     }
   },
   {
@@ -575,19 +574,19 @@
     "url": "$SERVER_BASE/wordpress/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "linus-wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "84.47%",
-    "uptimeWeek": "69.17%",
-    "uptimeMonth": "89.16%",
+    "uptimeDay": "84.42%",
+    "uptimeWeek": "69.66%",
+    "uptimeMonth": "89.20%",
     "uptimeYear": "99.10%",
     "time": 749,
     "timeDay": 606,
-    "timeWeek": 695,
-    "timeMonth": 754,
+    "timeWeek": 689,
+    "timeMonth": 752,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2024-05-13": 40,
+      "2024-05-13": 41,
       "2024-05-12": 260,
       "2024-05-11": 251,
       "2024-05-10": 287,
@@ -598,7 +597,7 @@
       "2024-05-05": 529,
       "2024-05-04": 580,
       "2024-05-03": 282,
-      "2024-05-02": 83
+      "2024-05-02": 63
     }
   },
   {
@@ -611,14 +610,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "60.48%",
+    "uptimeYear": "60.47%",
     "time": 1480,
-    "timeDay": 4431,
+    "timeDay": 0,
     "timeWeek": 4955,
     "timeMonth": 3153,
     "timeYear": 1544,
     "dailyMinutesDown": {
-      "2024-05-13": 392,
+      "2024-05-13": 453,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
