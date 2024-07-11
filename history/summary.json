@@ -197,7 +197,7 @@
     "timeMonth": 108,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2024-07-11": 294,
+      "2024-07-11": 314,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
@@ -605,18 +605,19 @@
     "url": "$SERVER_BASE/wordpress/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "linus-wordpress",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 758,
     "timeDay": 1003,
     "timeWeek": 632,
     "timeMonth": 604,
     "timeYear": 753,
     "dailyMinutesDown": {
+      "2024-07-11": 2,
       "2024-06-27": 115,
       "2024-06-17": 44,
       "2024-06-15": 81,
@@ -633,7 +634,7 @@
       "2024-05-11": 251,
       "2024-05-10": 287,
       "2024-05-09": 449,
-      "2024-05-08": 319
+      "2024-05-08": 258
     }
   },
   {
@@ -653,7 +654,7 @@
     "timeMonth": 2640,
     "timeYear": 1792,
     "dailyMinutesDown": {
-      "2024-07-11": 294,
+      "2024-07-11": 314,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
