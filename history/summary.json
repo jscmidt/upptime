@@ -4,19 +4,19 @@
     "url": "$SERVER_BASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "startpage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "68.95%",
-    "uptimeWeek": "95.56%",
+    "uptimeDay": "68.88%",
+    "uptimeWeek": "95.55%",
     "uptimeMonth": "98.93%",
-    "uptimeYear": "99.31%",
-    "time": 1260,
+    "uptimeYear": "99.32%",
+    "time": 1259,
     "timeDay": 1327,
     "timeWeek": 1240,
     "timeMonth": 1244,
     "timeYear": 1266,
     "dailyMinutesDown": {
-      "2024-08-13": 446,
+      "2024-08-13": 447,
       "2024-07-23": 21,
       "2024-06-27": 126,
       "2024-06-17": 44,
@@ -33,7 +33,7 @@
       "2024-05-12": 259,
       "2024-05-11": 261,
       "2024-05-10": 306,
-      "2024-05-09": 386
+      "2024-05-09": 359
     }
   },
   {
@@ -41,10 +41,10 @@
     "url": "$SERVER_BASE/piwigo/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "piwigo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "69.07%",
-    "uptimeWeek": "95.58%",
+    "uptimeDay": "69.01%",
+    "uptimeWeek": "95.57%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.35%",
     "time": 716,
@@ -53,7 +53,7 @@
     "timeMonth": 804,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2024-08-13": 446,
+      "2024-08-13": 447,
       "2024-06-27": 126,
       "2024-06-17": 44,
       "2024-06-15": 80,
@@ -69,7 +69,7 @@
       "2024-05-12": 260,
       "2024-05-11": 248,
       "2024-05-10": 286,
-      "2024-05-09": 407
+      "2024-05-09": 386
     }
   },
   {
@@ -77,9 +77,9 @@
     "url": "$SERVER_BASE/recipes/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tandoor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "69.23%",
+    "uptimeDay": "69.18%",
     "uptimeWeek": "95.60%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.35%",
@@ -89,7 +89,7 @@
     "timeMonth": 638,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2024-08-13": 443,
+      "2024-08-13": 444,
       "2024-06-27": 125,
       "2024-06-17": 44,
       "2024-06-15": 80,
@@ -105,7 +105,7 @@
       "2024-05-12": 260,
       "2024-05-11": 248,
       "2024-05-10": 286,
-      "2024-05-09": 407
+      "2024-05-09": 386
     }
   },
   {
@@ -198,7 +198,7 @@
     "timeMonth": 451,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2024-08-13": 908,
+      "2024-08-13": 938,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
@@ -656,7 +656,7 @@
     "timeMonth": 4881,
     "timeYear": 2270,
     "dailyMinutesDown": {
-      "2024-08-13": 908,
+      "2024-08-13": 939,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
