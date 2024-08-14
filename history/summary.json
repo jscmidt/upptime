@@ -4,19 +4,19 @@
     "url": "$SERVER_BASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "startpage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "31.50%",
-    "uptimeWeek": "88.44%",
+    "uptimeDay": "32.96%",
+    "uptimeWeek": "88.43%",
     "uptimeMonth": "97.29%",
-    "uptimeYear": "99.28%",
+    "uptimeYear": "99.29%",
     "time": 1258,
     "timeDay": 997,
     "timeWeek": 1140,
     "timeMonth": 1192,
     "timeYear": 1263,
     "dailyMinutesDown": {
-      "2024-08-14": 342,
+      "2024-08-14": 343,
       "2024-08-13": 822,
       "2024-07-23": 21,
       "2024-06-27": 126,
@@ -33,7 +33,7 @@
       "2024-05-13": 226,
       "2024-05-12": 259,
       "2024-05-11": 261,
-      "2024-05-10": 179
+      "2024-05-10": 107
     }
   },
   {
@@ -41,10 +41,10 @@
     "url": "$SERVER_BASE/piwigo/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "piwigo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "31.77%",
-    "uptimeWeek": "88.49%",
+    "uptimeDay": "33.23%",
+    "uptimeWeek": "88.48%",
     "uptimeMonth": "97.35%",
     "uptimeYear": "99.31%",
     "time": 721,
@@ -53,7 +53,7 @@
     "timeMonth": 863,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2024-08-14": 341,
+      "2024-08-14": 342,
       "2024-08-13": 820,
       "2024-06-27": 126,
       "2024-06-17": 44,
@@ -69,7 +69,7 @@
       "2024-05-13": 206,
       "2024-05-12": 260,
       "2024-05-11": 248,
-      "2024-05-10": 191
+      "2024-05-10": 159
     }
   },
   {
@@ -77,9 +77,9 @@
     "url": "$SERVER_BASE/recipes/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tandoor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "32.08%",
+    "uptimeDay": "33.54%",
     "uptimeWeek": "88.54%",
     "uptimeMonth": "97.36%",
     "uptimeYear": "99.31%",
@@ -89,7 +89,7 @@
     "timeMonth": 638,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2024-08-14": 341,
+      "2024-08-14": 342,
       "2024-08-13": 816,
       "2024-06-27": 125,
       "2024-06-17": 44,
@@ -105,7 +105,7 @@
       "2024-05-13": 206,
       "2024-05-12": 260,
       "2024-05-11": 248,
-      "2024-05-10": 191
+      "2024-05-10": 159
     }
   },
   {
@@ -115,7 +115,7 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "39.41%",
+    "uptimeDay": "40.90%",
     "uptimeWeek": "89.80%",
     "uptimeMonth": "97.65%",
     "uptimeYear": "99.32%",
@@ -152,9 +152,9 @@
     "slug": "grafana",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "63.55%",
-    "uptimeWeek": "93.26%",
-    "uptimeMonth": "98.45%",
+    "uptimeDay": "65.64%",
+    "uptimeWeek": "93.35%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "99.39%",
     "time": 544,
     "timeDay": 1229,
@@ -162,7 +162,7 @@
     "timeMonth": 974,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2024-08-14": 240,
+      "2024-08-14": 231,
       "2024-08-13": 439,
       "2024-06-27": 124,
       "2024-06-17": 44,
@@ -178,7 +178,7 @@
       "2024-05-13": 207,
       "2024-05-12": 260,
       "2024-05-11": 290,
-      "2024-05-10": 192
+      "2024-05-10": 209
     }
   },
   {
@@ -198,7 +198,7 @@
     "timeMonth": 451,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2024-08-14": 527,
+      "2024-08-14": 560,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
@@ -571,18 +571,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "64.16%",
-    "uptimeWeek": "93.37%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.75%",
+    "uptimeDay": "66.19%",
+    "uptimeWeek": "93.46%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "99.39%",
     "time": 124,
     "timeDay": 139,
     "timeWeek": 136,
     "timeMonth": 135,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-08-14": 237,
+      "2024-08-14": 229,
       "2024-08-13": 431,
       "2024-06-27": 122,
       "2024-06-17": 44,
@@ -598,7 +598,7 @@
       "2024-05-13": 207,
       "2024-05-12": 260,
       "2024-05-11": 251,
-      "2024-05-10": 209
+      "2024-05-10": 240
     }
   },
   {
@@ -649,14 +649,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.62%",
+    "uptimeYear": "35.61%",
     "time": 2105,
     "timeDay": 4206,
     "timeWeek": 5581,
     "timeMonth": 4915,
     "timeYear": 2279,
     "dailyMinutesDown": {
-      "2024-08-14": 528,
+      "2024-08-14": 560,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
