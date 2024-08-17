@@ -1,7 +1,7 @@
 url: $SERVER_BASE/lychee/
-status: degraded
+status: down
 code: 404
-responseTime: 12958
-lastUpdated: 2024-08-17T05:22:47.130Z
+responseTime: 1736
+lastUpdated: 2024-08-17T05:34:23.956Z
 startTime: 2022-02-24T17:19:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
