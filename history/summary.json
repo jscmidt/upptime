@@ -4,9 +4,9 @@
     "url": "$SERVER_BASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "startpage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.78%",
     "uptimeYear": "99.26%",
@@ -16,6 +16,7 @@
     "timeMonth": 1179,
     "timeYear": 1271,
     "dailyMinutesDown": {
+      "2024-08-30": 0,
       "2024-08-22": 61,
       "2024-08-15": 66,
       "2024-08-14": 898,
@@ -33,7 +34,7 @@
       "2024-05-15": 267,
       "2024-05-14": 242,
       "2024-05-13": 226,
-      "2024-05-12": 103
+      "2024-05-12": 74
     }
   },
   {
@@ -200,7 +201,7 @@
     "timeMonth": 453,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2024-08-30": 53,
+      "2024-08-30": 353,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -649,18 +650,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lychee",
     "status": "down",
-    "uptime": "72.41%",
+    "uptime": "72.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.47%",
+    "uptimeYear": "31.41%",
     "time": 2549,
     "timeDay": 3210,
     "timeWeek": 4954,
     "timeMonth": 5669,
-    "timeYear": 2739,
+    "timeYear": 2742,
     "dailyMinutesDown": {
-      "2024-08-30": 53,
+      "2024-08-30": 353,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
