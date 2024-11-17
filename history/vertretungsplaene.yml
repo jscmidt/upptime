@@ -1,7 +1,7 @@
 url: $SERVER_BASE/vertretungsplaene/
-status: down
+status: degraded
 code: 404
-responseTime: 97
-lastUpdated: 2024-11-16T23:17:36.673Z
+responseTime: 5618
+lastUpdated: 2024-11-17T14:26:23.562Z
 startTime: 2022-02-24T17:30:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
