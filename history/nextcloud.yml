@@ -1,7 +1,7 @@
 url: $SERVER_BASE/nextcloud/
-status: degraded
+status: up
 code: 200
-responseTime: 13633
-lastUpdated: 2024-11-18T12:51:05.175Z
+responseTime: 2289
+lastUpdated: 2024-11-18T13:18:50.389Z
 startTime: 2022-02-24T17:30:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
