@@ -171,10 +171,10 @@
     "url": "$SERVER_BASE/nextcloud/",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "96.83%",
-    "uptimeDay": "92.55%",
-    "uptimeWeek": "96.03%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "96.02%",
     "uptimeMonth": "93.74%",
     "uptimeYear": "90.25%",
     "time": 1287,
@@ -183,6 +183,7 @@
     "timeMonth": 1865,
     "timeYear": 1397,
     "dailyMinutesDown": {
+      "2025-03-22": 0,
       "2025-03-21": 107,
       "2025-03-19": 69,
       "2025-03-16": 223,
@@ -246,7 +247,7 @@
       "2024-05-20": 124,
       "2024-05-18": 17,
       "2024-05-17": 20,
-      "2024-05-16": 224
+      "2024-05-16": 204
     }
   },
   {
@@ -318,7 +319,7 @@
     "timeMonth": 124,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-03-22": 58,
+      "2025-03-22": 206,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
@@ -796,7 +797,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lychee",
     "status": "down",
-    "uptime": "59.24%",
+    "uptime": "59.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -807,7 +808,7 @@
     "timeMonth": 4042,
     "timeYear": 3227,
     "dailyMinutesDown": {
-      "2025-03-22": 59,
+      "2025-03-22": 207,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
