@@ -296,7 +296,7 @@
     "timeMonth": 124,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-08-12": 74,
+      "2025-08-12": 176,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
@@ -752,7 +752,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lychee",
     "status": "down",
-    "uptime": "52.54%",
+    "uptime": "52.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -763,7 +763,7 @@
     "timeMonth": 1033,
     "timeYear": 2448,
     "dailyMinutesDown": {
-      "2025-08-12": 74,
+      "2025-08-12": 176,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
@@ -1135,19 +1135,19 @@
     "url": "https://google.com",
     "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "google",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "92.96%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.98%",
     "time": 182,
-    "timeDay": 432,
-    "timeWeek": 220,
+    "timeDay": 352,
+    "timeWeek": 217,
     "timeMonth": 170,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-08-12": 1
+      "2025-08-12": 101
     }
   }
 ]
